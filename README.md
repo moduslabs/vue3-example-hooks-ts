@@ -16,6 +16,11 @@ You can watch this video to learn how to get started with Vue 3 Composable Hooks
 
 # How it works
 
+Test in:
+
+- Repl.it: [https://repl.it/@Modus/vue3-example-hooks-ts](https://repl.it/@Modus/vue3-example-hooks-ts)
+- CodeSandbox: [https://codesandbox.io/s/vue3-example-hooks-ts-77ykv](https://codesandbox.io/s/vue3-example-hooks-ts-77ykv)
+
 ## Project setup
 
 ```
